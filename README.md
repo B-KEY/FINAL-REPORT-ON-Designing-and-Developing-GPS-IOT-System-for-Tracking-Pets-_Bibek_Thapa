@@ -1,0 +1,1 @@
+This project consists of technologies such as Internet of things (IOT), cloud-based technology and different programming language including script language which will also be able to overcome the security issues of user’s data by removing third party involvement because all the control over data will be on the user’s hand. 
